@@ -1,8 +1,8 @@
-# CourtConnect - Ứng dụng Quản lý Sự kiện & Sân Thể Thao CLB
+# CourtConnect - Đặt sân và ghép người chơi theo trình độ
 
 ## 📋 Tóm tắt thông tin dự án
 
-- **Tên đề tài:** CourtConnect - Giao lưu Nhịp Sân (Nền tảng quản lý sự kiện và điều phối CLB thể thao)[cite: 1]
+- **Tên đề tài:** CourtConnect - Đặt sân và ghép người chơi theo trình độ[cite: 1]
 - **Tên trang đã thực hiện:** Trang quản lý chi tiết sự kiện và điều phối người tham gia (Event Management & Court Dashboard)[cite: 1]
 - **Mục đích của trang:** Giúp người quản lý (điều phối viên CLB) dễ dàng theo dõi thông tin sự kiện, chỉnh sửa biểu mẫu, kiểm soát ngân sách/chi phí thuê sân, quản lý danh sách thành viên đăng ký và xử lý các thao tác công bố hoặc hủy lịch thi đấu một cách trực quan[cite: 1, 2, 3].
 - **Các chức năng chính:**
